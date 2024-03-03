@@ -8,4 +8,4 @@
 
 - - - -
 
-# FROM ACADEMICS
+# :mortar_board: FROM ACADEMICS
