@@ -2,14 +2,10 @@
 - [From Employment](#From-Employment)
 - [From Leadership Roles](#From-Leadership-Roles)
 - [From Academics](#From-Academics)
+- [Bachelor Degree](#Bachelor-Degree)
 
 - - - -
 ## From Employment
-
-<br>
-
-- - - -
-## From Leadership Roles
 
 <br>
 
@@ -22,4 +18,12 @@
 <br>
 
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/3%20DeanLetter.jpg" width=100% height=100%>
+
+- - - -
+## From Leadership Roles
+
+<br>
+
+- - - -
+## Bachelor Degree
 
