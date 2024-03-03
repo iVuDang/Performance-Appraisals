@@ -11,6 +11,7 @@
 
 - - - -
 ## From Academics
+
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/1.%20Recommendation%20from%20Michael_Vu%20Dang.jpg" width=100% height=100%>
 <br>
 
@@ -22,6 +23,13 @@
 - - - -
 ## From Leadership Roles
 
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/10%20Suzette.jpg" width=100% height=100%>
+<br>
+
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/9%20Jude.jpg" width=100% height=100%>
+<br>
+
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/8%20Katie.jpg" width=100% height=100%>
 <br>
 
 - - - -
