@@ -32,6 +32,13 @@
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/8%20Katie.jpg" width=100% height=100%>
 <br>
 
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Isla%20Letter.jpg" width=100% height=100%>
+<br>
+
 - - - -
 ## Bachelor Degree
+
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/BBA_Degree.jpg" width=100% height=100%>
+<br>
+
 
