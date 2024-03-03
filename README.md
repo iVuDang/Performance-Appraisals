@@ -1,4 +1,12 @@
 # Performance Appraisals
+- [From Employment](#From-Employment)
+- [From Leadership Roles](#From-Leadership-Roles)
+- [From Academics](#From-Academics)
+
+- - - -
+
+<br>
+
 ## From Employment
 
 - - - -
