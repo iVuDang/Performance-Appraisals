@@ -1,7 +1,7 @@
 # Performance Appraisals
 - [From Employment](#From-Employment)
-- [From Leadership Roles](#From-Leadership-Roles)
 - [From Academics](#From-Academics)
+- [From Leadership Roles](#From-Leadership-Roles)
 - [Bachelor Degree](#Bachelor-Degree)
 
 - - - -
