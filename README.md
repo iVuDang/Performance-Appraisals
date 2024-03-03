@@ -4,19 +4,16 @@
 - [From Academics](#From-Academics)
 
 - - - -
+## From Employment
 
 <br>
 
-## From Employment
-
 - - - -
-
 ## From Leadership Roles
 
 <br>
 
 - - - -
-
 ## From Academics
 
 <br>
