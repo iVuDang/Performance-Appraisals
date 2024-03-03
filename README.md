@@ -3,6 +3,7 @@
 - [From Academics](#From-Academics)
 - [From Leadership Roles](#From-Leadership-Roles)
 - [Bachelor Degree](#Bachelor-Degree)
+- [CPA Designation](#CPA-Designation)
 
 - - - -
 ## From Employment
@@ -41,4 +42,6 @@
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/BBA_Degree.jpg" width=100% height=100%>
 <br>
 
+- - - -
+## CPA Designation
 
