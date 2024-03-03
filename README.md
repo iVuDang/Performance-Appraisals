@@ -1,10 +1,10 @@
 # Performance Appraisals
-## 👨🏻‍💻 From Employment
+## From Employment
 
 - - - -
 
-## :firefighter: From Leadership Roles
+## From Leadership Roles
 
 - - - -
 
-## :mortar_board: From Academics
+## From Academics
