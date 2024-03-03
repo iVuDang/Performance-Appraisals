@@ -15,8 +15,6 @@
 
 - - - -
 ## From Academics
-<br>
-
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/1.%20Recommendation%20from%20Michael_Vu%20Dang.jpg" width=100% height=100%>
 <br>
 
