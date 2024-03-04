@@ -2,8 +2,11 @@
 - [From Employment](#From-Employment)
 - [From Academics](#From-Academics)
 - [From Leadership Roles](#From-Leadership-Roles)
-- [Bachelor Degree](#Bachelor-Degree)
+
+# Credentials 
 - [CPA Designation](#CPA-Designation)
+- [Bachelor Degree](#Bachelor-Degree)
+- [Extra Certifications](#Extra-Certifications)
 
 - - - -
 ## From Employment
@@ -37,13 +40,25 @@
 <br>
 
 - - - -
+## CPA Designation
+
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Vu%20-%20CPA%20Designation.jpg" width=100% height=100%>
+<br>
+
+- - - -
 ## Bachelor Degree
 
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/BBA_Degree.jpg" width=100% height=100%>
 <br>
 
 - - - -
-## CPA Designation
+## Extra Certifications
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Vu%20-%20CPA%20Designation.jpg" width=100% height=100%>
+<img src="" width=100% height=100%>
+<br>
+
+<img src="" width=100% height=100%>
+<br>
+
+<img src="" width=100% height=100%>
 <br>
