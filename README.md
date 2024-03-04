@@ -45,3 +45,5 @@
 - - - -
 ## CPA Designation
 
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Vu%20-%20CPA%20Designation.jpg" width=100% height=100%>
+<br>
