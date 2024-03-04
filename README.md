@@ -11,6 +11,7 @@
 - - - -
 ## From Employment
 
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Deloitte%20Performance%20Report%20-%20Senior%20Accountant%20-%20Vu%20Dang.png" width=100% height=100%>
 <br>
 
 - - - -
