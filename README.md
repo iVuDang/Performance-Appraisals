@@ -11,7 +11,8 @@
 - - - -
 ## From Employment
 
-Quadrant chart scoring my performance as a **senior accountant**, from **4** different unique team leaders (managers), reflecting **1,125** hours of billable work. 
+Quadrant chart scoring my performance as a **senior accountant**, 
+from **4** different unique team leaders (managers), reflecting **1,125** hours of billable work. 
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Deloitte%20Performance%20Report%20-%20Senior%20Accountant%20-%20Vu%20Dang.png" width=100% height=100%>
 <br>
 
