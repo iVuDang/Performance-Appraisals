@@ -19,12 +19,12 @@ Quadrant chart scoring my performance as a **senior accountant**, from **4** dif
 - - - -
 ## From Academics
 
-Letter of recommendation from Accounting professor at Mount Royal University. 
+Recommendation letter from **Accounting professor** at Mount Royal University: 
 <br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/1.%20Recommendation%20from%20Michael_Vu%20Dang.jpg" width=100% height=100%>
 <br>
 
-Letter of recommendation from Economics professor at Mount Royal University. 
+Recommendation letter from **Economics professor** at Mount Royal University:
 <br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/2.%20Recommendation%20from%20Ambrose_Vu%20Dang.jpg" width=100% height=100%>
 <br>
