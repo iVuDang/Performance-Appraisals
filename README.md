@@ -35,6 +35,8 @@ Recognition letter for academic excellence at Mount Royal University:
 - - - -
 ## From Leadership Roles
 
+Performance feedback as a swim instructor. 
+<br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/10%20Suzette.jpg" width=100% height=100%>
 <br>
 
@@ -44,6 +46,8 @@ Recognition letter for academic excellence at Mount Royal University:
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/8%20Katie.jpg" width=100% height=100%>
 <br>
 
+Thank you card from a student as her swim instructor.
+<br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Isla%20Letter.jpg" width=100% height=100%>
 <br>
 
