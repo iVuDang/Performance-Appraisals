@@ -16,6 +16,15 @@ Quadrant chart scoring my performance as a **senior accountant**, from **4** dif
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Deloitte%20Performance%20Report%20-%20Senior%20Accountant%20-%20Vu%20Dang.png" width=100% height=100%>
 <br>
 
+Performance review from Manager - Osvaldo Rodriguez
+<br>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Osvaldo%20Review%201.png" width=100% height=100%>
+<br>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Osvaldo%20Review%202.png" width=100% height=100%>
+<br>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Osvaldo%20Review%203.png" width=100% height=100%>
+<br>
+
 - - - -
 ## From Academics
 
