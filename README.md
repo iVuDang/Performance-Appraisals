@@ -1,7 +1,7 @@
 # Performance Appraisals
 - [From Employment](#From-Employment)
 - [From Academics](#From-Academics)
-- [From Leadership Roles](#From-Leadership-Roles)
+- [From Community](#From-Community)
 
 # Credentials 
 - [CPA Designation](#CPA-Designation)
@@ -42,7 +42,7 @@ Recognition letter for academic excellence at Mount Royal University:
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/3%20DeanLetter.jpg" width=100% height=100%>
 
 - - - -
-## From Leadership Roles
+## From Community
 
 Feedback comment cards as a swim instructor:
 <br>
