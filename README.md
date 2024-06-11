@@ -58,6 +58,9 @@ Feedback comment cards as a swim instructor:
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Isla%20Letter.jpg" width=100% height=100%>
 <br>
 
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/The%20City%20of%20Calgary%20-%20service.pdf" width=100% height=100%>
+<br>
+
 - - - -
 ## CPA Designation
 
