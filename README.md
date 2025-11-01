@@ -13,13 +13,13 @@
 - - - -
 ## Chartered Professional Accountant (CPA)
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Vu%20-%20CPA%20Designation.jpg" width=75% height=75%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Vu%20-%20CPA%20Designation.jpg" width=60% height=60%>
 <br>
 
 - - - -
 ## Bachelor of Business Administration
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/BBA_Degree.jpg" width=75% height=75%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/BBA_Degree.jpg" width=60% height=60%>
 <br>
 
 - - - -
