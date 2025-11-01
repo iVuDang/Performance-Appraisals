@@ -56,7 +56,7 @@ Quadrant chart illustrating my performance as a **Senior Accountant**, from **4*
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Deloitte%20Performance%20Report%20-%20Senior%20Accountant%20-%20Vu%20Dang.png" width=75% height=75%>
 <br>
 
-Performance review from a Deloitte Manager — Osvaldo R.
+Performance review from Deloitte Manager — Osvaldo R.
 <br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Osvaldo%20Review%201.png" width=75% height=75%>
 <br>
@@ -84,7 +84,7 @@ Recognition letter for academic excellence — Mount Royal University:
 - - - -
 ## From Community
 
-Feedback comments from participants as an instructor and coach:
+Feedback collected from participants and parents during my role as an instructor and coach:
 <br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/10%20Suzette.jpg" width=75% height=75%>
 <br>
