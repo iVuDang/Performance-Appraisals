@@ -35,7 +35,7 @@
 <br>
 
 ## Leadership and Public Safety Certifications
-Certified in risk management, emergency response, first aid, and aquatic instruction and leadership.
+Certified in aquatic risk management, emergency response, first aid, and instructional leadership.
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/LifesavingSociety_Awards.png" width=75% height=75%>
 <br>
 
