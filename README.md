@@ -1,10 +1,10 @@
-# Professional Credentials 
+# 1️⃣ Professional Credentials 
 - [Chartered Professional Accountant (CPA)](#Chartered-Professional-Accountant--CPA)
 - [Bachelor of Business Administration](#Bachelor-of-Business-Administration)
 - [Technical Certifications](#Technical-Certifications)
 - [Leadership & Public Safety Certifications](#Leadership-and-Public-Safety-Certifications)
 
-# Performance Appraisals
+# 2️⃣ Performance Appraisals
 - [From Employment](#From-Employment)
 - [From Academics](#From-Academics)
 - [From Community](#From-Community)
