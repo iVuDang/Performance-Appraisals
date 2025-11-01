@@ -48,16 +48,16 @@
 
 Quadrant chart scoring my performance as a **senior accountant**, from **4** different team leaders (managers & senior managers), reflecting **1,125** hours of work across **7** projects: 
 <br>
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Deloitte%20Performance%20Report%20-%20Senior%20Accountant%20-%20Vu%20Dang.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Deloitte%20Performance%20Report%20-%20Senior%20Accountant%20-%20Vu%20Dang.png" width=75% height=75%>
 <br>
 
 Performance review comments from Manager - Osvaldo R.
 <br>
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Osvaldo%20Review%201.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Osvaldo%20Review%201.png" width=75% height=75%>
 <br>
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Osvaldo%20Review%202.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Osvaldo%20Review%202.png" width=75% height=75%>
 <br>
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Osvaldo%20Review%203.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Osvaldo%20Review%203.png" width=75% height=75%>
 <br>
 
 - - - -
@@ -65,35 +65,35 @@ Performance review comments from Manager - Osvaldo R.
 
 Recommendation letter from **Accounting professor** at Mount Royal University: 
 <br>
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/1.%20Recommendation%20from%20Michael_Vu%20Dang.jpg" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/1.%20Recommendation%20from%20Michael_Vu%20Dang.jpg" width=75% height=75%>
 <br>
 
 Recommendation letter from **Economics professor** at Mount Royal University:
 <br>
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/2.%20Recommendation%20from%20Ambrose_Vu%20Dang.jpg" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/2.%20Recommendation%20from%20Ambrose_Vu%20Dang.jpg" width=75% height=75%>
 <br>
 
 Recognition letter for academic excellence at Mount Royal University:
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/3%20DeanLetter.jpg" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/3%20DeanLetter.jpg" width=75% height=75%>
 
 - - - -
 ## From Community
 
 Feedback comment cards as a swim instructor:
 <br>
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/10%20Suzette.jpg" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/10%20Suzette.jpg" width=75% height=75%>
 <br>
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/9%20Jude.jpg" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/9%20Jude.jpg" width=75% height=75%>
 <br>
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/8%20Katie.jpg" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/8%20Katie.jpg" width=75% height=75%>
 <br>
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Isla%20Letter.jpg" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Isla%20Letter.jpg" width=75% height=75%>
 <br>
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/The%20City%20of%20Calgary%20-%20service.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/The%20City%20of%20Calgary%20-%20service.png" width=75% height=75%>
 <br>
 
 
