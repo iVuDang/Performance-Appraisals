@@ -25,13 +25,13 @@
 - - - -
 ## Technical Certifications
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Scientific%20Computing%20with%20Python.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Scientific%20Computing%20with%20Python.png" width=60% height=60%>
 <br>
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20JavaScript%20Algorithms%20Data%20Structures.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20JavaScript%20Algorithms%20Data%20Structures.png" width=60% height=60%>
 <br>
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Responsive%20Web%20Design.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Responsive%20Web%20Design.png" width=60% height=60%>
 <br>
 
 ## Coaching, Leadership & Public Safety Certifications
