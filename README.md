@@ -1,8 +1,8 @@
 # Professional Credentials 
-- [Chartered Professional Accountant (CPA)](#Chartered-Professional-Accountant-(CPA))
+- [Chartered Professional Accountant (CPA)](#Chartered-Professional-Accountant--(CPA))
 - [Bachelor of Business Administration](#Bachelor-of-Business-Administration)
 - [Technical Certifications](#Technical-Certifications)
-- [Leadership & Public Safety Certifications](#Leadership-&-Public-Safety-Certifications)
+- [Leadership & Public Safety Certifications](#Leadership-and-Public-Safety-Certifications)
 
 # Performance Appraisals
 - [From Employment](#From-Employment)
@@ -11,7 +11,7 @@
 
 
 - - - -
-## Chartered Professional Accountant (CPA)
+## Chartered Professional Accountant – CPA
 
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Vu%20-%20CPA%20Designation.jpg" width=60% height=60%>
 <br>
@@ -34,7 +34,7 @@
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Responsive%20Web%20Design.png" width=60% height=60%>
 <br>
 
-## Leadership & Public Safety Certifications
+## Leadership and Public Safety Certifications
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Lifesaving_Society_Awards.png" width=60% height=60%>
 <br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/AARFP.png" width=60% height=60%>
