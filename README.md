@@ -35,10 +35,15 @@
 <br>
 
 ## Leadership and Public Safety Certifications
+Certified in risk management, emergency response, first aid, and aquatic instruction and leadership.
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/LifesavingSociety_Awards.png" width=75% height=75%>
 <br>
+
+Qualified in pool operations, maintenance, and facility management.
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/AARFP.png" width=75% height=75%>
 <br>
+
+Certified in athlete safety, skill instruction, and program leadership.
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Coaching_Gymnastics.jpg" width=75% height=75%>
 <br>
 
@@ -93,6 +98,7 @@ Feedback comment cards as a swim instructor:
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Isla%20Letter.jpg" width=75% height=75%>
 <br>
 
+Trained in recreation facility operations and public-service delivery.
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/The%20City%20of%20Calgary%20-%20service.png" width=75% height=75%>
 <br>
 
