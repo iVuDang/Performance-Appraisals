@@ -51,12 +51,12 @@ Certified in athlete safety, skill instruction, and program leadership.
 - - - -
 ## From Employment
 
-Quadrant chart scoring my performance as a **senior accountant**, from **4** different team leaders (managers & senior managers), reflecting **1,125** hours of work across **7** projects: 
+Quadrant chart illustrating my performance as a **Senior Accountant**, from **4** team leaders (Managers & Senior managers), reflecting **1,125** hours of work across **7** audit and assurance projects: 
 <br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Deloitte%20Performance%20Report%20-%20Senior%20Accountant%20-%20Vu%20Dang.png" width=75% height=75%>
 <br>
 
-Performance review comments from Manager - Osvaldo R.
+Performance review from Deloitte Manager — Osvaldo R.
 <br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Osvaldo%20Review%201.png" width=75% height=75%>
 <br>
