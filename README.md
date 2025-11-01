@@ -1,12 +1,42 @@
+# Professional Credentials 
+- [Chartered Professional Accountant (CPA)](#Chartered-Professional-Accountant-(CPA))
+- [Bachelor of Business Administration](#Bachelor-of-Business-Administration)
+- [Technical Certifications](#Technical-Certifications)
+- [Coaching & Public Safety Certifications](#CoachingCertifications)
+
 # Performance Appraisals
 - [From Employment](#From-Employment)
 - [From Academics](#From-Academics)
 - [From Community](#From-Community)
 
-# Credentials 
-- [CPA Designation](#CPA-Designation)
-- [Bachelor Degree](#Bachelor-Degree)
-- [Extra Certifications](#Extra-Certifications)
+
+- - - -
+## Chartered Professional Accountant (CPA)
+
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Vu%20-%20CPA%20Designation.jpg" width=100% height=100%>
+<br>
+
+- - - -
+## Bachelor of Business Administration
+
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/BBA_Degree.jpg" width=100% height=100%>
+<br>
+
+- - - -
+## Technical Certifications
+
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Scientific%20Computing%20with%20Python.png" width=100% height=100%>
+<br>
+
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20JavaScript%20Algorithms%20Data%20Structures.png" width=100% height=100%>
+<br>
+
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Responsive%20Web%20Design.png" width=100% height=100%>
+<br>
+
+## Coaching & Public Safety Certifications
+
+
 
 - - - -
 ## From Employment
@@ -61,26 +91,4 @@ Feedback comment cards as a swim instructor:
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/The%20City%20of%20Calgary%20-%20service.png" width=100% height=100%>
 <br>
 
-- - - -
-## CPA Designation
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Vu%20-%20CPA%20Designation.jpg" width=100% height=100%>
-<br>
-
-- - - -
-## Bachelor Degree
-
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/BBA_Degree.jpg" width=100% height=100%>
-<br>
-
-- - - -
-## Extra Certifications
-
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Scientific%20Computing%20with%20Python.png" width=100% height=100%>
-<br>
-
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20JavaScript%20Algorithms%20Data%20Structures.png" width=100% height=100%>
-<br>
-
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Responsive%20Web%20Design.png" width=100% height=100%>
-<br>
