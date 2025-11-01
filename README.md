@@ -19,7 +19,7 @@
 - - - -
 ## Bachelor of Business Administration
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/BBA_Degree.jpg" width=100% height=100%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/BBA_Degree.jpg" width=75% height=75%>
 <br>
 
 - - - -
