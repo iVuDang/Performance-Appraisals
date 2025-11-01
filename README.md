@@ -1,5 +1,5 @@
 # Professional Credentials 
-- [Chartered Professional Accountant (CPA)](#Chartered-Professional-Accountant--(CPA))
+- [Chartered Professional Accountant (CPA)](#Chartered-Professional-Accountant--CPA)
 - [Bachelor of Business Administration](#Bachelor-of-Business-Administration)
 - [Technical Certifications](#Technical-Certifications)
 - [Leadership & Public Safety Certifications](#Leadership-and-Public-Safety-Certifications)
