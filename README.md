@@ -84,7 +84,7 @@ Recognition letter for academic excellence at Mount Royal University:
 - - - -
 ## From Community
 
-Feedback comment cards as a swim instructor:
+Feedback comments from participants as an instructor and coach:
 <br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/10%20Suzette.jpg" width=75% height=75%>
 <br>
