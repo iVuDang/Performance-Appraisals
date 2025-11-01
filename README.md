@@ -2,7 +2,7 @@
 - [Chartered Professional Accountant (CPA)](#Chartered-Professional-Accountant-(CPA))
 - [Bachelor of Business Administration](#Bachelor-of-Business-Administration)
 - [Technical Certifications](#Technical-Certifications)
-- [Coaching & Public Safety Certifications](#CoachingCertifications)
+- [Coaching & Public Safety Certifications](#Coaching-Certifications)
 
 # Performance Appraisals
 - [From Employment](#From-Employment)
@@ -34,7 +34,7 @@
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Responsive%20Web%20Design.png" width=100% height=100%>
 <br>
 
-## Coaching & Public Safety Certifications
+## Coaching, Leadership & Public Safety Certifications
 
 
 
