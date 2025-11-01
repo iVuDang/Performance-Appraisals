@@ -13,33 +13,33 @@
 - - - -
 ## Chartered Professional Accountant – CPA
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Vu%20-%20CPA%20Designation.jpg" width=60% height=60%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Vu%20-%20CPA%20Designation.jpg" width=75% height=75%>
 <br>
 
 - - - -
 ## Bachelor of Business Administration
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/BBA_Degree.jpg" width=60% height=60%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/BBA_Degree.jpg" width=75% height=75%>
 <br>
 
 - - - -
 ## Technical Certifications
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Scientific%20Computing%20with%20Python.png" width=60% height=60%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Scientific%20Computing%20with%20Python.png" width=75% height=75%>
 <br>
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20JavaScript%20Algorithms%20Data%20Structures.png" width=60% height=60%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20JavaScript%20Algorithms%20Data%20Structures.png" width=75% height=75%>
 <br>
 
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Responsive%20Web%20Design.png" width=60% height=60%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/FCC%20Responsive%20Web%20Design.png" width=75% height=75%>
 <br>
 
 ## Leadership and Public Safety Certifications
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Lifesaving_Society_Awards.png" width=60% height=60%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Lifesaving_Society_Awards.png" width=75% height=75%>
 <br>
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/AARFP.png" width=60% height=60%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/AARFP.png" width=75% height=75%>
 <br>
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Coaching_Gymnastics.jpg" width=60% height=60%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Coaching_Gymnastics.jpg" width=75% height=75%>
 <br>
 
 
