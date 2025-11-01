@@ -35,7 +35,7 @@
 <br>
 
 ## Leadership and Public Safety Certifications
-<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Lifesaving_Society_Awards.png" width=75% height=75%>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/LifesavingSociety_Awards.png" width=75% height=75%>
 <br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/AARFP.png" width=75% height=75%>
 <br>
