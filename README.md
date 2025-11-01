@@ -68,17 +68,17 @@ Performance review comments from Manager - Osvaldo R.
 - - - -
 ## From Academics
 
-Recommendation letter from **Accounting professor** at Mount Royal University: 
+Recommendation letter from **Accounting professor** — Mount Royal University: 
 <br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/1.%20Recommendation%20from%20Michael_Vu%20Dang.jpg" width=75% height=75%>
 <br>
 
-Recommendation letter from **Economics professor** at Mount Royal University:
+Recommendation letter from **Economics professor** — Mount Royal University:
 <br>
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/2.%20Recommendation%20from%20Ambrose_Vu%20Dang.jpg" width=75% height=75%>
 <br>
 
-Recognition letter for academic excellence at Mount Royal University:
+Recognition letter for academic excellence — Mount Royal University:
 <img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/3%20DeanLetter.jpg" width=75% height=75%>
 
 - - - -
