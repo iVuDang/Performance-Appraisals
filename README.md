@@ -35,7 +35,12 @@
 <br>
 
 ## Leadership & Public Safety Certifications
-
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Lifesaving_Society_Awards.png" width=60% height=60%>
+<br>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/AARFP.png" width=60% height=60%>
+<br>
+<img src="https://github.com/iVuDang/Performance-Appraisals/blob/main/Coaching_Gymnastics.jpg" width=60% height=60%>
+<br>
 
 
 - - - -
